@@ -2,7 +2,7 @@
 
 https://deonjeff.github.io/weather-dashboard/
 
-https://deonjeff.github.io/weather-dashboard/
+https://github.com/DeonJeff/weather-dashboard
 
 
 
